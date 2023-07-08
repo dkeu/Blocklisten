@@ -1,2 +1,2 @@
 # Blocklists
-DNS blocklists for unwanted cookie notifications, web font services and script CDNs.
+DNS-Blocklisten für unerwünschte Cookie-Benachrichtigungen, Webfont-Dienste und Skript CDNs. Für mehr Performance und weniger verbrauchtes Datenvolumen.
