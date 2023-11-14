@@ -50,7 +50,6 @@ omtrdc.net
 
 cloudflare.com
 haendlerbund.de
-payments-eu.amazon.com
 polyfill.io
 gravatar.com
 geolocation-recommendations.shopifyapps.com
@@ -101,6 +100,10 @@ mapsengine.google.com
 pay.google.com
 play.google.com
 play.googleapis.com
+
+payments-eu.amazon.com
+klarna.com
+klarnacdn.net
 
 appspot.com
 crashlytics.com
